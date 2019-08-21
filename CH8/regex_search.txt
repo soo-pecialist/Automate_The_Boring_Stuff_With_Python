@@ -1,0 +1,4 @@
+Regex search test file. 
+This one has multiple lines. 
+Therfore results shall show accordingly. 
+
