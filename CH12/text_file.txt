@@ -1,0 +1,6 @@
+first line of text file.
+second line of text file.
+third line of text file.
+
+4th line was skipped
+this is the last line
