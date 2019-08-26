@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/s/b0dcca.css" title="Default"/>
+<title>xkcd: Numbers</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="shortcut icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="/atom.xml"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.xml"/>
+<script type="text/javascript" src="/s/b66ed7.js" async></script>
+<script type="text/javascript" src="/s/1b9456.js" async></script>
+
+<meta property="og:site_name" content="xkcd">
+
+<meta property="og:title" content="Numbers">
+<meta property="og:url" content="https://xkcd.com/715/">
+<meta property="og:image" content="https://imgs.xkcd.com/comics/">
+<meta name="twitter:card" content="summary_large_image">
+
+</head>
+<body>
+<div id="topContainer">
+<div id="topLeft">
+<ul>
+<li><a href="/archive">Archive</a></li>
+<li><a href="http://what-if.xkcd.com">What If?</a></li>
+<li><a href="http://blag.xkcd.com">Blag</a></li>
+<li><a href="/how-to/">How To</a></li>
+<li><a href="http://store.xkcd.com/">Store</a></li>
+<li><a rel="author" href="/about">About</a></li>
+<li><a href="/atom.xml">Feed</a> &bull; <a href="/newsletter/">Email</a></li>
+</ul>
+</div>
+<div id="topRight">
+<div id="masthead">
+<span><a href="/"><img src="/s/0b7742.png" alt="xkcd.com logo" height="83" width="185"/></a></span>
+<span id="slogan">A webcomic of romance,<br/> sarcasm, math, and language.</span>
+</div>
+<div id="news">
+<div id="htNews">
+<a href="https://blog.xkcd.com/2019/08/05/win-an-xkcd-sketch/"><img border=0 src="//imgs.xkcd.com/static/win_a_sketch.png"></a><br />
+  Preorder <em>How To</em>:
+    <a href="https://www.amazon.com/How-Absurd-Scientific-Real-World-Problems/dp/0525537090/">Amazon</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/2/trackingcode/PRH5522E62429">Barnes & Noble</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/6/trackingcode/penguinrandom">IndieBound</a>,
+    <a href="https://itunes.apple.com/us/book/how-to/id1451461524?mt=11">Apple Books</a>
+</div>
+<script>
+var client = new XMLHttpRequest();
+client.open("GET", "//c.xkcd.com/how-to/news", true);
+client.send();
+client.onreadystatechange = function() {
+  if(client.readyState == 4 && client.status == 200) {
+    document.getElementById("htNews").innerHTML = client.responseText;
+  }
+}
+</script>
+
+</div>
+</div>
+<div id="bgLeft" class="bg box"></div>
+<div id="bgRight" class="bg box"></div>
+</div>
+<div id="middleContainer" class="box">
+
+<div id="ctitle">Numbers</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/714/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/716/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<div id="comic">
+<img src="//imgs.xkcd.com/comics/numbers.png" title="The typical internet user (who wants to share) has an IQ of 147 and a 9-inch penis. Well, better than the reverse, I guess." alt="Numbers" />
+</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/714/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/716/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<br />
+Permanent link to this comic: https://xkcd.com/715/<br />
+Image URL (for hotlinking/embedding): https://imgs.xkcd.com/comics/numbers.png
+<div id="transcript" style="display: none">Google Result for Various Phrases:
+{{Each panel is a scatterplot of the described X against the number of Google hits, with trend lines. The scales vary.}}
+
+&lt;X&gt; Bottles of Beer on the Wall
+[[There are peaks at 1, 49, 73, and 99. A dip in the middle is marked &quot;They lose steam at 66.&quot; After 99 is a steep dropoff. The largest peak is around 100,000 hits.]]
+
+I&#39;ve Had &lt;X&gt; Boy
+Girlfriends
+[[Both lines descend at roughly the same rate from 1 to 10, although the boyfriend graph is smoother; the girlfriend graph has a small peak at 4 and a small dip at 6. The peaks are between 100,000 and 1,000,000 hits.]]
+
+I&#39;m in &lt;X&gt;st
+nd
+rd
+th Grade
+[[The curve is a bell peaking at 7th grade and about 500,000 hits. A second line labeled &quot;Including Junior, Senior, etc.&quot; follows the bell curve until the peak, then dips only slightly for 10th grade and resumes climbing.]]
+
+I Have a
+an &lt;X&gt;-Inch Penis
+[[The line ascends shallowly from 100,000 hits for 3 inches to a peak of 180,000 for 9 inches, then descends steeply to 20,000 for 13 inches.]]
+
+I&#39;m a
+an &lt;X&gt;-Cup
+[[A has a few hundred thousand hits; the graph dips to a few thousand for C, peaks again around 100,000 for E, and then tails off.]]
+
+I&#39;m &lt;X&gt; and Have Never Had a Boyfriend
+[[The graph is mostly a simple bell, starting and ending around 300,000 hits for 13 or 21, but there is a sharp peak of 700,000 at 18 (well above the trend line).]]
+
+Drink &lt;X&gt; Glasses of Water a Day
+[[There are barely any hits below 4 or above 12; between the two it rises steeply to about 1,000 hits, with a steep, narrow peak of 10,000 at 8.]]
+
+There Are &lt;X&gt; Lights
+[[The graph descends smoothly from several hundred thousand hits for 1 to about 10,000 for 10, except for a peak of about 1,000,000 for 4.]]
+
+I Got &lt;X&gt; Problems
+[[The plot is extremely jagged, with the largest peak of 10,000,000 hits at 99, another of 10,000 at 96, and 100 and 88.]]
+
+My IQ Is &lt;X&gt;
+[[A smooth curve starts and ends at a few thousand hits for around 85 and around 170, with the peak at several tens of thousands for 140, but there are several prominent outliers: 100, 110, 133, and 142 are all around 100,000 hits, and 147 is around 1,000,000.]]
+
+{{Title text: The typical internet user (who wants to share) has an IQ of 147 and a 9-inch penis. Well, better than the reverse, I guess.}}</div>
+</div>
+<div id="bottom" class="box">
+<img src="//imgs.xkcd.com/s/a899e84.jpg" width="520" height="100" alt="Selected Comics" usemap="#comicmap"/>
+<map id="comicmap" name="comicmap">
+<area shape="rect" coords="0,0,100,100" href="/150/" alt="Grownups"/>
+<area shape="rect" coords="104,0,204,100" href="/730/" alt="Circuit Diagram"/>
+<area shape="rect" coords="208,0,308,100" href="/162/" alt="Angular Momentum"/>
+<area shape="rect" coords="312,0,412,100" href="/688/" alt="Self-Description"/>
+<area shape="rect" coords="416,0,520,100" href="/556/" alt="Alternative Energy Revolution"/>
+</map>
+<br />
+<a href="//xkcd.com/1732/"><img border=0 src="//imgs.xkcd.com/s/temperature.png" width="520" height="100" alt="Earth temperature timeline"></a>
+<br />
+<div>
+<!--
+Search comic titles and transcripts:
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">google.load('search', '1');google.setOnLoadCallback(function() {google.search.CustomSearchControl.attachAutoCompletion('012652707207066138651:zudjtuwe28q',document.getElementById('q'),'cse-search-box');});</script>
+<form action="//www.google.com/cse" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="012652707207066138651:zudjtuwe28q"/>
+<input type="hidden" name="ie" value="UTF-8"/>
+<input type="text" name="q" id="q" size="31"/>
+<input type="submit" name="sa" value="Search"/>
+</div>
+</form>
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+-->
+<a href="/rss.xml">RSS Feed</a> - <a href="/atom.xml">Atom Feed</a> - <a href="/newsletter/">Email</a>
+</div>
+<br />
+<div id="comicLinks">
+Comics I enjoy:<br/>
+        <a href="http://threewordphrase.com/">Three Word Phrase</a>,
+        <a href="http://www.smbc-comics.com/">SMBC</a>,
+        <a href="http://www.qwantz.com">Dinosaur Comics</a>,
+        <a href="http://oglaf.com/">Oglaf</a> (nsfw),
+        <a href="http://www.asofterworld.com">A Softer World</a>,
+        <a href="http://buttersafe.com/">Buttersafe</a>,
+        <a href="http://pbfcomics.com/">Perry Bible Fellowship</a>,
+        <a href="http://questionablecontent.net/">Questionable Content</a>,
+        <a href="http://www.buttercupfestival.com/">Buttercup Festival</a>,
+        <a href="http://www.mspaintadventures.com/?s=6&p=001901">Homestuck</a>,
+	<a href="http://www.jspowerhour.com/">Junior Scientist Power Hour</a>
+</div>
+<br />
+<div id="comicLinks">
+Other things:<br/>
+        <a href="https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597">Tips on technology and government</a>,<br /> 
+        <a href="https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html">Climate FAQ</a>,
+	<a href="https://twitter.com/KHayhoe">Katharine Hayhoe</a>
+</div>
+<br />
+<center>
+<div id="footnote" style="width:70%">xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&plusmn;1 emulated in Javascript on an Apple IIGS<br />at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device<br />from Airplane Mode and set it to Boat Mode. For security reasons, please leave caps lock on while browsing.</div>
+</center>
+<div id="licenseText">
+<p>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-nc/2.5/">Creative Commons Attribution-NonCommercial 2.5 License</a>.
+</p><p>
+This means you're free to copy and share these comics (but not to sell them). <a rel="license" href="/license.html">More details</a>.</p>
+</div>
+</div>
+</body>
+<!-- Layout by Ian Clasbey, davean, and chromakode -->
+</html>
+

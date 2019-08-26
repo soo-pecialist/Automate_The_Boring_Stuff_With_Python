@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/s/b0dcca.css" title="Default"/>
+<title>xkcd: Visual Field</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="shortcut icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="/atom.xml"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.xml"/>
+<script type="text/javascript" src="/s/b66ed7.js" async></script>
+<script type="text/javascript" src="/s/1b9456.js" async></script>
+
+<meta property="og:site_name" content="xkcd">
+
+<meta property="og:title" content="Visual Field">
+<meta property="og:url" content="https://xkcd.com/1080/">
+<meta property="og:image" content="https://imgs.xkcd.com/comics/">
+<meta name="twitter:card" content="summary_large_image">
+
+</head>
+<body>
+<div id="topContainer">
+<div id="topLeft">
+<ul>
+<li><a href="/archive">Archive</a></li>
+<li><a href="http://what-if.xkcd.com">What If?</a></li>
+<li><a href="http://blag.xkcd.com">Blag</a></li>
+<li><a href="/how-to/">How To</a></li>
+<li><a href="http://store.xkcd.com/">Store</a></li>
+<li><a rel="author" href="/about">About</a></li>
+<li><a href="/atom.xml">Feed</a> &bull; <a href="/newsletter/">Email</a></li>
+</ul>
+</div>
+<div id="topRight">
+<div id="masthead">
+<span><a href="/"><img src="/s/0b7742.png" alt="xkcd.com logo" height="83" width="185"/></a></span>
+<span id="slogan">A webcomic of romance,<br/> sarcasm, math, and language.</span>
+</div>
+<div id="news">
+<div id="htNews">
+<a href="https://blog.xkcd.com/2019/08/05/win-an-xkcd-sketch/"><img border=0 src="//imgs.xkcd.com/static/win_a_sketch.png"></a><br />
+  Preorder <em>How To</em>:
+    <a href="https://www.amazon.com/How-Absurd-Scientific-Real-World-Problems/dp/0525537090/">Amazon</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/2/trackingcode/PRH5522E62429">Barnes & Noble</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/6/trackingcode/penguinrandom">IndieBound</a>,
+    <a href="https://itunes.apple.com/us/book/how-to/id1451461524?mt=11">Apple Books</a>
+</div>
+<script>
+var client = new XMLHttpRequest();
+client.open("GET", "//c.xkcd.com/how-to/news", true);
+client.send();
+client.onreadystatechange = function() {
+  if(client.readyState == 4 && client.status == 200) {
+    document.getElementById("htNews").innerHTML = client.responseText;
+  }
+}
+</script>
+
+</div>
+</div>
+<div id="bgLeft" class="bg box"></div>
+<div id="bgRight" class="bg box"></div>
+</div>
+<div id="middleContainer" class="box">
+
+<div id="ctitle">Visual Field</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/1079/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/1081/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<div id="comic">
+<a href="https://xkcd.com/1080/large/"><img src="//imgs.xkcd.com/comics/visual_field.png" title="I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google &quot;stopped clock illusion&quot;." alt="Visual Field" /></a>
+</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/1079/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/1081/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<br />
+Permanent link to this comic: https://xkcd.com/1080/<br />
+Image URL (for hotlinking/embedding): https://imgs.xkcd.com/comics/visual_field.png
+<div id="transcript" style="display: none">Your Central Visual Field
+
+((This comic contains numerous visual elements arranged around a central point, and are intended to represent locations in a sphere with the eyeball as the center.  Underlaid below all of the elements are concentric circles representing degrees from straight ahead, using the eyeball&#39;s point of view, denoting where these elements would appear in someone&#39;s field of vision given proper setup.  For this description, elements will be described using this grid plus location in degrees within the specified circle, placing 0 degrees to the right and going counterclockwise, separated with the word &quot;mark&quot;.))
+
+[[At the top are the instructions to view this page]]
+Look at the center with your eyes this far from the screen.
+[[A rolled-up sheet of paper that equals about 55 total horizontal degrees in width in the measurement of the chart]]
+(You can roll up a sheet of paper and cut it - or zoom the page - so it matches this image)
+
+17 mark 0: right eye blind spot. 
+
+from 0 to 30 mark 15: [[The same image, increasing in absolute size from a very tiny object in the center to one about 20x original size at 30 degrees]]
+Detail - We only see at high resolution over a small area in the center of our vision where retinal cells are densest (the fovea).  If you stare at the center of this chart, your eyes are seeing all these panels at roughly the same level of detail.
+
+9 mark 105: Moon.
+
+7 mark 112: Supermoon. 
+
+from 0 to 20 mark 170: [[Sets 3 partially overlapping circles in multiple locations along this path. Each set has a primary color in each circle and additive colors in the overlap areas, with color saturation decreasing sharply as the sets leave the center.]] 
+Color Vision: We don&#39;t see much color outside the center of our vision - our brains keep track of what color things are and fill it in for us.
+
+17 mark 180: Left Eye Blind Spot. (not pictured: T-Boz blind spot, Chilli blind spot)
+
+from 0 to infinity mark from 180 to 205: [[A swath of blue, with heavier saturation up to 5 degrees from center to fading, but never gone out to the edges of the image]]
+from 0 to 7 from 205 to 235:[[A swath of red, with full saturation in the center and fading out completely at 7 degrees from center]]
+from 0 to 7 from 235 to 270:[[A swath of green, with full saturation in the center and fading out completely at 7 degrees from center]]
+Red and green-sensitive cones are mainly limited to the center of our vision.  We have few blue-sensitive cone cells, but they&#39;re found out to the edge of our vision.
+
+25 mark 205: [[A small whisp of white in a swath of blue]]
+Blue-sky sprites: These tiny, darting spots, visible against smooth blue backgrounds, are white cells moving in the blood vessels over the retina]]
+
+5 mark 195: [[a long blob, slightly distorting the blue swath]]
+Floaters: Some types of floaters are caused by breakdown of your eyeball goop as you age, but this type is some other kind of debris near the retina.  I don&#39;t know what.
+
+10 mark 270: [[An askew crosshair and circle, with faint blue and yellow wedges inside]]
+Humans can see polarization - Stare at a white area on an LCD display while rotating it or your head fast [[use straight ahead as the axis of rotation]].  Polarization direction is shown by a faint central yellow
+blue shape.  (Also visible in deep blue skies)
+
+from 0 to 30 mark 340: [[The same image, increasing in absolute size from a very tiny object in the center to one about 20x original size at 30 degrees. The brightness of the image varies from black at 2 mark 340, to gray at 5 mark 340, to nearly white at 10 mark 340, to slightly grayer at 20 mark 340, to medium gray at 30 mark 340.]]
+Night Vision: Cone cells (sharp, central color vision) don&#39;t work in low light, but rod cells (monochrome, low-res, non-central) do.  This is why you can walk around in dim light, but not read.  It&#39;s also why you can spot fainter stars by looking next to them.
+
+
+
+
+
+{{Title text: I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google &quot;stopped clock illusion&quot;.}}</div>
+</div>
+<div id="bottom" class="box">
+<img src="//imgs.xkcd.com/s/a899e84.jpg" width="520" height="100" alt="Selected Comics" usemap="#comicmap"/>
+<map id="comicmap" name="comicmap">
+<area shape="rect" coords="0,0,100,100" href="/150/" alt="Grownups"/>
+<area shape="rect" coords="104,0,204,100" href="/730/" alt="Circuit Diagram"/>
+<area shape="rect" coords="208,0,308,100" href="/162/" alt="Angular Momentum"/>
+<area shape="rect" coords="312,0,412,100" href="/688/" alt="Self-Description"/>
+<area shape="rect" coords="416,0,520,100" href="/556/" alt="Alternative Energy Revolution"/>
+</map>
+<br />
+<a href="//xkcd.com/1732/"><img border=0 src="//imgs.xkcd.com/s/temperature.png" width="520" height="100" alt="Earth temperature timeline"></a>
+<br />
+<div>
+<!--
+Search comic titles and transcripts:
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">google.load('search', '1');google.setOnLoadCallback(function() {google.search.CustomSearchControl.attachAutoCompletion('012652707207066138651:zudjtuwe28q',document.getElementById('q'),'cse-search-box');});</script>
+<form action="//www.google.com/cse" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="012652707207066138651:zudjtuwe28q"/>
+<input type="hidden" name="ie" value="UTF-8"/>
+<input type="text" name="q" id="q" size="31"/>
+<input type="submit" name="sa" value="Search"/>
+</div>
+</form>
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+-->
+<a href="/rss.xml">RSS Feed</a> - <a href="/atom.xml">Atom Feed</a> - <a href="/newsletter/">Email</a>
+</div>
+<br />
+<div id="comicLinks">
+Comics I enjoy:<br/>
+        <a href="http://threewordphrase.com/">Three Word Phrase</a>,
+        <a href="http://www.smbc-comics.com/">SMBC</a>,
+        <a href="http://www.qwantz.com">Dinosaur Comics</a>,
+        <a href="http://oglaf.com/">Oglaf</a> (nsfw),
+        <a href="http://www.asofterworld.com">A Softer World</a>,
+        <a href="http://buttersafe.com/">Buttersafe</a>,
+        <a href="http://pbfcomics.com/">Perry Bible Fellowship</a>,
+        <a href="http://questionablecontent.net/">Questionable Content</a>,
+        <a href="http://www.buttercupfestival.com/">Buttercup Festival</a>,
+        <a href="http://www.mspaintadventures.com/?s=6&p=001901">Homestuck</a>,
+	<a href="http://www.jspowerhour.com/">Junior Scientist Power Hour</a>
+</div>
+<br />
+<div id="comicLinks">
+Other things:<br/>
+        <a href="https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597">Tips on technology and government</a>,<br /> 
+        <a href="https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html">Climate FAQ</a>,
+	<a href="https://twitter.com/KHayhoe">Katharine Hayhoe</a>
+</div>
+<br />
+<center>
+<div id="footnote" style="width:70%">xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&plusmn;1 emulated in Javascript on an Apple IIGS<br />at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device<br />from Airplane Mode and set it to Boat Mode. For security reasons, please leave caps lock on while browsing.</div>
+</center>
+<div id="licenseText">
+<p>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-nc/2.5/">Creative Commons Attribution-NonCommercial 2.5 License</a>.
+</p><p>
+This means you're free to copy and share these comics (but not to sell them). <a rel="license" href="/license.html">More details</a>.</p>
+</div>
+</div>
+</body>
+<!-- Layout by Ian Clasbey, davean, and chromakode -->
+</html>
+

@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/s/b0dcca.css" title="Default"/>
+<title>xkcd: Electoral Precedent</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="shortcut icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="/atom.xml"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.xml"/>
+<script type="text/javascript" src="/s/b66ed7.js" async></script>
+<script type="text/javascript" src="/s/1b9456.js" async></script>
+
+<meta property="og:site_name" content="xkcd">
+
+<meta property="og:title" content="Electoral Precedent">
+<meta property="og:url" content="https://xkcd.com/1122/">
+<meta property="og:image" content="https://imgs.xkcd.com/comics/electoral_precedent_2x.png">
+<meta name="twitter:card" content="summary_large_image">
+
+</head>
+<body>
+<div id="topContainer">
+<div id="topLeft">
+<ul>
+<li><a href="/archive">Archive</a></li>
+<li><a href="http://what-if.xkcd.com">What If?</a></li>
+<li><a href="http://blag.xkcd.com">Blag</a></li>
+<li><a href="/how-to/">How To</a></li>
+<li><a href="http://store.xkcd.com/">Store</a></li>
+<li><a rel="author" href="/about">About</a></li>
+<li><a href="/atom.xml">Feed</a> &bull; <a href="/newsletter/">Email</a></li>
+</ul>
+</div>
+<div id="topRight">
+<div id="masthead">
+<span><a href="/"><img src="/s/0b7742.png" alt="xkcd.com logo" height="83" width="185"/></a></span>
+<span id="slogan">A webcomic of romance,<br/> sarcasm, math, and language.</span>
+</div>
+<div id="news">
+<div id="htNews">
+<a href="https://blog.xkcd.com/2019/08/05/win-an-xkcd-sketch/"><img border=0 src="//imgs.xkcd.com/static/win_a_sketch.png"></a><br />
+  Preorder <em>How To</em>:
+    <a href="https://www.amazon.com/How-Absurd-Scientific-Real-World-Problems/dp/0525537090/">Amazon</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/2/trackingcode/PRH5522E62429">Barnes & Noble</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/6/trackingcode/penguinrandom">IndieBound</a>,
+    <a href="https://itunes.apple.com/us/book/how-to/id1451461524?mt=11">Apple Books</a>
+</div>
+<script>
+var client = new XMLHttpRequest();
+client.open("GET", "//c.xkcd.com/how-to/news", true);
+client.send();
+client.onreadystatechange = function() {
+  if(client.readyState == 4 && client.status == 200) {
+    document.getElementById("htNews").innerHTML = client.responseText;
+  }
+}
+</script>
+
+</div>
+</div>
+<div id="bgLeft" class="bg box"></div>
+<div id="bgRight" class="bg box"></div>
+</div>
+<div id="middleContainer" class="box">
+
+<div id="ctitle">Electoral Precedent</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/1121/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/1123/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<div id="comic">
+<img src="//imgs.xkcd.com/comics/electoral_precedent.png" title="No white guy who&#39;s been mentioned on Twitter has gone on to win." alt="Electoral Precedent" srcset="//imgs.xkcd.com/comics/electoral_precedent_2x.png 2x"/>
+</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/1121/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/1123/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<br />
+Permanent link to this comic: https://xkcd.com/1122/<br />
+Image URL (for hotlinking/embedding): https://imgs.xkcd.com/comics/electoral_precedent.png
+<div id="transcript" style="display: none">The Problem with Statements Like
+&quot;No &lt;party&gt; candidate has won the election without &lt;state&gt;&quot; 
+or
+&quot;No President has been reelected under &lt;circumstances&gt;&quot;
+
+[[Each panel is a variation on the others, with the date in a small box at the top left, a stick figure speaking the line in the main panel, and the concluding sentence underneath.]]
+
+1788
+No one has been elected President before.
+but Washington was.
+
+1792
+No incumbent has ever been selected.
+until Washington.
+
+1796
+No one without false teeth has become President.
+but Adams did.
+
+1800
+No challenger has beaten an incumbent. 
+but Jefferson did.
+
+1804
+No incumbent has beaten a challenger.
+until Jefferson.
+
+1808
+No congressman has ever become President.
+until Madison.
+
+1812
+No one can win without New York.
+but Madison did.
+
+1816
+No candidate who doesn&#39;t wear a wig can get elected.
+until Monroe was.
+
+1820
+No one who wears pants instead of breeches can be reelected.
+but Monroe was.
+
+1824
+No one has ever won without a popular majority.
+J.Q. Adams did.
+
+1828
+Only people from Massachusetts and Virginia can win.
+until Jackson did.
+
+1832
+The only Presidents who get reelected are Virginians.
+until Jackson.
+
+1836
+New Yorkers always lose.
+until Van Buren.
+
+1840
+No one over 65 has won the Presidency.
+until Harrison did.
+
+1844
+No one who&#39;s lost his home state has won.
+but Polk did.
+
+1848
+The Democrats don&#39;t lose when they win Pennsylvania.
+but they did in 1848.
+
+1852
+New England Democrats can&#39;t win.
+until Pierce did.
+
+1856
+No one can become President without getting married.
+until Buchanan did.
+
+1860
+No one over 6&#39;5&quot; can get elected.
+until Lincoln.
+
+1864
+No one with a beard has been reelected.
+but Lincoln was.
+
+1868
+No one can be President if their parents are alive.
+until Grant.
+
+1872
+No one with a beard has been reelected in peacetime.
+until Grant was.
+
+1876
+No one can win a majority of the popular vote and still lose.
+Tilden did.
+
+1880
+As goes California, so goes the nation.
+until it went Hancock.
+
+1884
+Candidates named &#39;James&#39; can&#39;t lose.
+until James Blaine.
+
+1888
+No sitting President has been beaten since the Civil War.
+Cleveland was.
+
+1892
+No former President has been elected.
+until Cleveland.
+
+1896
+Tall Midwesterners are unbeatable.
+Bryan wasn&#39;t. 
+
+1900
+No Republican shorter than 5&#39;8&quot; has been reelected.
+until McKinley was.
+
+1904
+No one under 45 has been elected.
+Roosevelt was.
+
+1908
+No Republican who hasn&#39;t served in the military has won.
+until Taft.
+
+1912
+After Lincoln beat the Deocrats while sporting a beard with no mustache, the only Democrats who can win have a mustache with no beard.
+Wilson had neither.
+
+1916
+No Democrat has won without Indiana.
+Wilson did.
+
+1920
+No incumbent senator has won.
+until Harding.
+
+1924
+No one with two Cs in their name has become President.
+until Calvin Coolidge.
+
+1928
+No one who got ten million votes has lost.
+until Al Smith.
+
+1932
+No Democrat has won since women secured the right to vote.
+until FDR did.
+
+1936
+No President&#39;s been reelected with double-digit unemployment.
+until FDR was.
+
+1940
+No one has won a third term.
+until FDR did.
+
+1944
+No Democrat has won during wartime.
+until FDR did.
+
+1948
+Democrats can&#39;t win without Alabama.
+Truman did.
+
+1952
+No Republican has won without winning the House or Senate.
+Eisenhower did.
+
+1956
+No Republican has won without Missouri.
+until Eisenhower.
+
+1960
+Republicans without facial hare are unbeatable.
+Kennedy beat Nixon.
+
+1964 
+No Democrat has won without Georgia.
+Johnson did.
+
+1968
+No Republican Vice President has risen to the Presidency through an election.
+until Nixon.
+
+1972
+No wartime candidate has won without Massachusetts.
+until Nixon did.
+
+1976
+No one who lost New Mexico has won.
+but Carter did.
+
+1980
+No one has been elected President after a divorce.
+until Reagan was.
+
+1984
+No left-handed President has been reelected.
+until Reagan was.
+
+1988
+No Democrat who has won Wisconsin (without being from there) has lost.
+until Dukakis did.
+
+1992
+No Democrat has won without a majority of the Catholic vote.
+until Clinton did.
+
+1996
+No Dem. incumbent without combat experience has beaten someone whose first name is worth more in Scrabble.
+until Bill beat Bob.
+
+2000
+No Republican has won without Vermont.
+until Bush did.
+
+2004
+No Republican without combat experience has beaten someone two inches taller.
+until Bush did.
+
+2008
+No Democrat can win without Missouri.
+until Obama did.
+
+[[The next two panels share a date and ending caption.]]
+2012
+Panel 1: Alliterative tickets (e.g. Romney
+Ryan) are undefeated.
+Panel 2: No nominee whose first name contains a &quot;K&quot; has lost.
+Which streak will break?
+{{Title text: No white guy who&#39;s been mentioned on Twitter has gone on to win.}}</div>
+</div>
+<div id="bottom" class="box">
+<img src="//imgs.xkcd.com/s/a899e84.jpg" width="520" height="100" alt="Selected Comics" usemap="#comicmap"/>
+<map id="comicmap" name="comicmap">
+<area shape="rect" coords="0,0,100,100" href="/150/" alt="Grownups"/>
+<area shape="rect" coords="104,0,204,100" href="/730/" alt="Circuit Diagram"/>
+<area shape="rect" coords="208,0,308,100" href="/162/" alt="Angular Momentum"/>
+<area shape="rect" coords="312,0,412,100" href="/688/" alt="Self-Description"/>
+<area shape="rect" coords="416,0,520,100" href="/556/" alt="Alternative Energy Revolution"/>
+</map>
+<br />
+<a href="//xkcd.com/1732/"><img border=0 src="//imgs.xkcd.com/s/temperature.png" width="520" height="100" alt="Earth temperature timeline"></a>
+<br />
+<div>
+<!--
+Search comic titles and transcripts:
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">google.load('search', '1');google.setOnLoadCallback(function() {google.search.CustomSearchControl.attachAutoCompletion('012652707207066138651:zudjtuwe28q',document.getElementById('q'),'cse-search-box');});</script>
+<form action="//www.google.com/cse" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="012652707207066138651:zudjtuwe28q"/>
+<input type="hidden" name="ie" value="UTF-8"/>
+<input type="text" name="q" id="q" size="31"/>
+<input type="submit" name="sa" value="Search"/>
+</div>
+</form>
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+-->
+<a href="/rss.xml">RSS Feed</a> - <a href="/atom.xml">Atom Feed</a> - <a href="/newsletter/">Email</a>
+</div>
+<br />
+<div id="comicLinks">
+Comics I enjoy:<br/>
+        <a href="http://threewordphrase.com/">Three Word Phrase</a>,
+        <a href="http://www.smbc-comics.com/">SMBC</a>,
+        <a href="http://www.qwantz.com">Dinosaur Comics</a>,
+        <a href="http://oglaf.com/">Oglaf</a> (nsfw),
+        <a href="http://www.asofterworld.com">A Softer World</a>,
+        <a href="http://buttersafe.com/">Buttersafe</a>,
+        <a href="http://pbfcomics.com/">Perry Bible Fellowship</a>,
+        <a href="http://questionablecontent.net/">Questionable Content</a>,
+        <a href="http://www.buttercupfestival.com/">Buttercup Festival</a>,
+        <a href="http://www.mspaintadventures.com/?s=6&p=001901">Homestuck</a>,
+	<a href="http://www.jspowerhour.com/">Junior Scientist Power Hour</a>
+</div>
+<br />
+<div id="comicLinks">
+Other things:<br/>
+        <a href="https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597">Tips on technology and government</a>,<br /> 
+        <a href="https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html">Climate FAQ</a>,
+	<a href="https://twitter.com/KHayhoe">Katharine Hayhoe</a>
+</div>
+<br />
+<center>
+<div id="footnote" style="width:70%">xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&plusmn;1 emulated in Javascript on an Apple IIGS<br />at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device<br />from Airplane Mode and set it to Boat Mode. For security reasons, please leave caps lock on while browsing.</div>
+</center>
+<div id="licenseText">
+<p>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-nc/2.5/">Creative Commons Attribution-NonCommercial 2.5 License</a>.
+</p><p>
+This means you're free to copy and share these comics (but not to sell them). <a rel="license" href="/license.html">More details</a>.</p>
+</div>
+</div>
+</body>
+<!-- Layout by Ian Clasbey, davean, and chromakode -->
+</html>
+

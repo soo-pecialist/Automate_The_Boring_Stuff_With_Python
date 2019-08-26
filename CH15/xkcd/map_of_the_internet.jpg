@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/s/b0dcca.css" title="Default"/>
+<title>xkcd: Map of the Internet</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="shortcut icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="/atom.xml"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.xml"/>
+<script type="text/javascript" src="/s/b66ed7.js" async></script>
+<script type="text/javascript" src="/s/1b9456.js" async></script>
+
+<meta property="og:site_name" content="xkcd">
+
+<meta property="og:title" content="Map of the Internet">
+<meta property="og:url" content="https://xkcd.com/195/">
+<meta property="og:image" content="https://imgs.xkcd.com/comics/">
+<meta name="twitter:card" content="summary_large_image">
+
+</head>
+<body>
+<div id="topContainer">
+<div id="topLeft">
+<ul>
+<li><a href="/archive">Archive</a></li>
+<li><a href="http://what-if.xkcd.com">What If?</a></li>
+<li><a href="http://blag.xkcd.com">Blag</a></li>
+<li><a href="/how-to/">How To</a></li>
+<li><a href="http://store.xkcd.com/">Store</a></li>
+<li><a rel="author" href="/about">About</a></li>
+<li><a href="/atom.xml">Feed</a> &bull; <a href="/newsletter/">Email</a></li>
+</ul>
+</div>
+<div id="topRight">
+<div id="masthead">
+<span><a href="/"><img src="/s/0b7742.png" alt="xkcd.com logo" height="83" width="185"/></a></span>
+<span id="slogan">A webcomic of romance,<br/> sarcasm, math, and language.</span>
+</div>
+<div id="news">
+<div id="htNews">
+<a href="https://blog.xkcd.com/2019/08/05/win-an-xkcd-sketch/"><img border=0 src="//imgs.xkcd.com/static/win_a_sketch.png"></a><br />
+  Preorder <em>How To</em>:
+    <a href="https://www.amazon.com/How-Absurd-Scientific-Real-World-Problems/dp/0525537090/">Amazon</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/2/trackingcode/PRH5522E62429">Barnes & Noble</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/6/trackingcode/penguinrandom">IndieBound</a>,
+    <a href="https://itunes.apple.com/us/book/how-to/id1451461524?mt=11">Apple Books</a>
+</div>
+<script>
+var client = new XMLHttpRequest();
+client.open("GET", "//c.xkcd.com/how-to/news", true);
+client.send();
+client.onreadystatechange = function() {
+  if(client.readyState == 4 && client.status == 200) {
+    document.getElementById("htNews").innerHTML = client.responseText;
+  }
+}
+</script>
+
+</div>
+</div>
+<div id="bgLeft" class="bg box"></div>
+<div id="bgRight" class="bg box"></div>
+</div>
+<div id="middleContainer" class="box">
+
+<div id="ctitle">Map of the Internet</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/194/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/196/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<div id="comic">
+<img src="//imgs.xkcd.com/comics/map_of_the_internet.jpg" title="For the IPv6 map just imagine the XP default desktop picture." alt="Map of the Internet" />
+</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/194/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/196/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<br />
+Permanent link to this comic: https://xkcd.com/195/<br />
+Image URL (for hotlinking/embedding): https://imgs.xkcd.com/comics/map_of_the_internet.jpg
+<div id="transcript" style="display: none">Map of the Internet
+The IPv4 Space, 2006
+This chart shows the IP address space on a plane using a fractal mapping which preserves grouping--any consecutive string of IPs will translate to a single, compact, contiguous region on the map.  Each of the 256 numbered blocks represents one 
+8 subnet (containing all IPs that start with that number).  The upper left section shows the blocks sold directly to corporations and coverments in the 1990&#39;s before the RIRs took over allocation.
+[[Diagram displaying IP addresses using Hibbert Curve]]
+Diagram showing IP ownership:
+0: Local
+1-2: Unallocated
+3: General Electric
+4: BB&amp;N INC
+5: Unallocated
+6: Army AISC
+7: Unallocated
+8: BB&amp;N INC
+9: IBM
+10: VPNs
+11: DoD Intel
+12: Bell Labs
+13: Xerox
+14: Public data nets
+15: HP
+16: DEC
+17: Apple
+18: MIT
+19: Ford
+20: CSC
+21: DDN-RYN
+22: DISA
+23: Unallocated
+24: Cable TV
+25: UK MoD
+26: DISA
+27: Unallocated
+28: DSI
+29-30: DISA
+31: Unallocated
+32: NORSK
+33: DLA
+34: Halliburton
+35: Merit
+36-37: Unallocated
+38: PSI
+39: Unallocated
+40: Eli Lily
+41: ARINIC
+42: Unallocated
+43: Japan INET
+44: HAM Radio
+45: INTEROP
+46: BB&amp;N INC
+47: Bell North
+48: Prudential
+49-50: Unallocated
+51: UK Social Security
+52: duPont
+55: Boeing
+56: USPS
+57: SITA
+58-61: Asia-Pacific
+62: Europe
+63-76: USA &amp; Canada (contains: UUNET, Google, Digg, Slashdot, Ebay, Craigslist, XKCD, Flickr)
+77-79: Europe (unused)
+80-91: Europe
+92-95: Unallocated
+96-99: North America
+100-120: Unallocated
+121-125: Asia-Pacific
+126: Japan
+127: Loopback
+128-132: Various Registrars
+133: Japan
+134-172: Various Registrars
+173-189: Unallocated
+188: Various
+189-190: Latin America &amp; Caribbean
+191-192: Various (contains Private (RFC 1918)
+193-195: Europe
+196: Africa
+197: Unallocated
+198: US &amp; Various
+199: North America
+200-201: Latin America &amp; Carribbean
+202-203: Asia-Pacific
+204-209: North America (contains Suicide Girls, BoingBoing)
+210-211: Asia-Pacific
+212-213: Europe
+214-215: U.S. Department of Defense
+216: North America (Contains Myspace, SomethingAwful)
+217: Europe
+218-222: Asia-Pacific
+223: Unallocated
+224-239: Multicast
+240-255: Unallocated
+{{alt: For the IPv6 map just imagine the XP default desktop picture.}}</div>
+</div>
+<div id="bottom" class="box">
+<img src="//imgs.xkcd.com/s/a899e84.jpg" width="520" height="100" alt="Selected Comics" usemap="#comicmap"/>
+<map id="comicmap" name="comicmap">
+<area shape="rect" coords="0,0,100,100" href="/150/" alt="Grownups"/>
+<area shape="rect" coords="104,0,204,100" href="/730/" alt="Circuit Diagram"/>
+<area shape="rect" coords="208,0,308,100" href="/162/" alt="Angular Momentum"/>
+<area shape="rect" coords="312,0,412,100" href="/688/" alt="Self-Description"/>
+<area shape="rect" coords="416,0,520,100" href="/556/" alt="Alternative Energy Revolution"/>
+</map>
+<br />
+<a href="//xkcd.com/1732/"><img border=0 src="//imgs.xkcd.com/s/temperature.png" width="520" height="100" alt="Earth temperature timeline"></a>
+<br />
+<div>
+<!--
+Search comic titles and transcripts:
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">google.load('search', '1');google.setOnLoadCallback(function() {google.search.CustomSearchControl.attachAutoCompletion('012652707207066138651:zudjtuwe28q',document.getElementById('q'),'cse-search-box');});</script>
+<form action="//www.google.com/cse" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="012652707207066138651:zudjtuwe28q"/>
+<input type="hidden" name="ie" value="UTF-8"/>
+<input type="text" name="q" id="q" size="31"/>
+<input type="submit" name="sa" value="Search"/>
+</div>
+</form>
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+-->
+<a href="/rss.xml">RSS Feed</a> - <a href="/atom.xml">Atom Feed</a> - <a href="/newsletter/">Email</a>
+</div>
+<br />
+<div id="comicLinks">
+Comics I enjoy:<br/>
+        <a href="http://threewordphrase.com/">Three Word Phrase</a>,
+        <a href="http://www.smbc-comics.com/">SMBC</a>,
+        <a href="http://www.qwantz.com">Dinosaur Comics</a>,
+        <a href="http://oglaf.com/">Oglaf</a> (nsfw),
+        <a href="http://www.asofterworld.com">A Softer World</a>,
+        <a href="http://buttersafe.com/">Buttersafe</a>,
+        <a href="http://pbfcomics.com/">Perry Bible Fellowship</a>,
+        <a href="http://questionablecontent.net/">Questionable Content</a>,
+        <a href="http://www.buttercupfestival.com/">Buttercup Festival</a>,
+        <a href="http://www.mspaintadventures.com/?s=6&p=001901">Homestuck</a>,
+	<a href="http://www.jspowerhour.com/">Junior Scientist Power Hour</a>
+</div>
+<br />
+<div id="comicLinks">
+Other things:<br/>
+        <a href="https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597">Tips on technology and government</a>,<br /> 
+        <a href="https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html">Climate FAQ</a>,
+	<a href="https://twitter.com/KHayhoe">Katharine Hayhoe</a>
+</div>
+<br />
+<center>
+<div id="footnote" style="width:70%">xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&plusmn;1 emulated in Javascript on an Apple IIGS<br />at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device<br />from Airplane Mode and set it to Boat Mode. For security reasons, please leave caps lock on while browsing.</div>
+</center>
+<div id="licenseText">
+<p>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-nc/2.5/">Creative Commons Attribution-NonCommercial 2.5 License</a>.
+</p><p>
+This means you're free to copy and share these comics (but not to sell them). <a rel="license" href="/license.html">More details</a>.</p>
+</div>
+</div>
+</body>
+<!-- Layout by Ian Clasbey, davean, and chromakode -->
+</html>
+

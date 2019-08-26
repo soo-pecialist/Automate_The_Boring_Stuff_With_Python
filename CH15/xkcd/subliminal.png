@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/s/b0dcca.css" title="Default"/>
+<title>xkcd: Subliminal</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="shortcut icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="icon" href="/s/919f27.ico" type="image/x-icon"/>
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="/atom.xml"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss.xml"/>
+<script type="text/javascript" src="/s/b66ed7.js" async></script>
+<script type="text/javascript" src="/s/1b9456.js" async></script>
+
+<meta property="og:site_name" content="xkcd">
+
+<meta property="og:title" content="Subliminal">
+<meta property="og:url" content="https://xkcd.com/960/">
+<meta property="og:image" content="https://imgs.xkcd.com/comics/">
+<meta name="twitter:card" content="summary_large_image">
+
+</head>
+<body>
+<div id="topContainer">
+<div id="topLeft">
+<ul>
+<li><a href="/archive">Archive</a></li>
+<li><a href="http://what-if.xkcd.com">What If?</a></li>
+<li><a href="http://blag.xkcd.com">Blag</a></li>
+<li><a href="/how-to/">How To</a></li>
+<li><a href="http://store.xkcd.com/">Store</a></li>
+<li><a rel="author" href="/about">About</a></li>
+<li><a href="/atom.xml">Feed</a> &bull; <a href="/newsletter/">Email</a></li>
+</ul>
+</div>
+<div id="topRight">
+<div id="masthead">
+<span><a href="/"><img src="/s/0b7742.png" alt="xkcd.com logo" height="83" width="185"/></a></span>
+<span id="slogan">A webcomic of romance,<br/> sarcasm, math, and language.</span>
+</div>
+<div id="news">
+<div id="htNews">
+<a href="https://blog.xkcd.com/2019/08/05/win-an-xkcd-sketch/"><img border=0 src="//imgs.xkcd.com/static/win_a_sketch.png"></a><br />
+  Preorder <em>How To</em>:
+    <a href="https://www.amazon.com/How-Absurd-Scientific-Real-World-Problems/dp/0525537090/">Amazon</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/2/trackingcode/PRH5522E62429">Barnes & Noble</a>,
+    <a href="http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525537090/siteID/8001/retailerid/6/trackingcode/penguinrandom">IndieBound</a>,
+    <a href="https://itunes.apple.com/us/book/how-to/id1451461524?mt=11">Apple Books</a>
+</div>
+<script>
+var client = new XMLHttpRequest();
+client.open("GET", "//c.xkcd.com/how-to/news", true);
+client.send();
+client.onreadystatechange = function() {
+  if(client.readyState == 4 && client.status == 200) {
+    document.getElementById("htNews").innerHTML = client.responseText;
+  }
+}
+</script>
+
+</div>
+</div>
+<div id="bgLeft" class="bg box"></div>
+<div id="bgRight" class="bg box"></div>
+</div>
+<div id="middleContainer" class="box">
+
+<div id="ctitle">Subliminal</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/959/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/961/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<div id="comic">
+<img src="//imgs.xkcd.com/comics/subliminal.png" title="Once you see it, you can&#39;t help seeing it every time. Until your body finishes metabolizing the mushrooms." alt="Subliminal" />
+</div>
+<ul class="comicNav">
+<li><a href="/1/">|&lt;</a></li>
+<li><a rel="prev" href="/959/" accesskey="p">&lt; Prev</a></li>
+<li><a href="//c.xkcd.com/random/comic/">Random</a></li>
+<li><a rel="next" href="/961/" accesskey="n">Next &gt;</a></li>
+<li><a href="/">&gt;|</a></li>
+</ul>
+<br />
+Permanent link to this comic: https://xkcd.com/960/<br />
+Image URL (for hotlinking/embedding): https://imgs.xkcd.com/comics/subliminal.png
+<div id="transcript" style="display: none">[[Two people are gathered around a computer. A person is seated interacting with the computer while another stands behind them with an arm resting on the back of the chair.]]
+Person 1 (seated): What hidden arrow?
+Person 2 (standing): I thought everyone knew about it. Pull up the FedEx logo.
+&lt;&lt;Click&gt;&gt;
+
+[[The second person is now pointing at the screen.]]
+Person 1: Where is it?
+Person 2: Right there. Look at the whitespace.
+Person 1: I don&#39;t see it.
+
+[[The next panel shows a stylised view of the FedEx logo. The white space above the &#39;ed&#39; in Fed is decorated to look like a tank turret with the barrel extending into the letter &#39;F&#39;. Along the bottom of the letters a baseball player with the number 24 on his back is reaching out to catch a baseball. The baseball is forming the centre of the &#39;e&#39; while the arm provides the break for the tail. The baseballers head marks the centre of the &#39;d&#39; and the number 24 is coloured in blue to show the lower half of the stroke of the &#39;d&#39;. Toward the right of the image the space between the &#39;E&#39; and &#39;x&#39; has been decorated to look like a Guy Fawkes mask, with ties wrapping around the &#39;x&#39; and being drawn off-screen. A faint outline suggests the whitespace above the &#39;x&#39; is a hat, with the brim extending into the upper part of the &#39;E&#39;. Two speech bubbles are visible above the drawing, both spoken by off-screen characters.]]
+Person 1 (off-screen): All I see if Guy Fawkes watching Willie Mays catch a fly ball while an armored assault vehicle rolls past.
+Person 2 (off-screen): ...You either need more medication or less. Not sure which.
+
+{{Title text: Once you see it, you can&#39;t help seeing it every time. Until your body finishes metabolizing the mushrooms.}}</div>
+</div>
+<div id="bottom" class="box">
+<img src="//imgs.xkcd.com/s/a899e84.jpg" width="520" height="100" alt="Selected Comics" usemap="#comicmap"/>
+<map id="comicmap" name="comicmap">
+<area shape="rect" coords="0,0,100,100" href="/150/" alt="Grownups"/>
+<area shape="rect" coords="104,0,204,100" href="/730/" alt="Circuit Diagram"/>
+<area shape="rect" coords="208,0,308,100" href="/162/" alt="Angular Momentum"/>
+<area shape="rect" coords="312,0,412,100" href="/688/" alt="Self-Description"/>
+<area shape="rect" coords="416,0,520,100" href="/556/" alt="Alternative Energy Revolution"/>
+</map>
+<br />
+<a href="//xkcd.com/1732/"><img border=0 src="//imgs.xkcd.com/s/temperature.png" width="520" height="100" alt="Earth temperature timeline"></a>
+<br />
+<div>
+<!--
+Search comic titles and transcripts:
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">google.load('search', '1');google.setOnLoadCallback(function() {google.search.CustomSearchControl.attachAutoCompletion('012652707207066138651:zudjtuwe28q',document.getElementById('q'),'cse-search-box');});</script>
+<form action="//www.google.com/cse" id="cse-search-box">
+<div>
+<input type="hidden" name="cx" value="012652707207066138651:zudjtuwe28q"/>
+<input type="hidden" name="ie" value="UTF-8"/>
+<input type="text" name="q" id="q" size="31"/>
+<input type="submit" name="sa" value="Search"/>
+</div>
+</form>
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+-->
+<a href="/rss.xml">RSS Feed</a> - <a href="/atom.xml">Atom Feed</a> - <a href="/newsletter/">Email</a>
+</div>
+<br />
+<div id="comicLinks">
+Comics I enjoy:<br/>
+        <a href="http://threewordphrase.com/">Three Word Phrase</a>,
+        <a href="http://www.smbc-comics.com/">SMBC</a>,
+        <a href="http://www.qwantz.com">Dinosaur Comics</a>,
+        <a href="http://oglaf.com/">Oglaf</a> (nsfw),
+        <a href="http://www.asofterworld.com">A Softer World</a>,
+        <a href="http://buttersafe.com/">Buttersafe</a>,
+        <a href="http://pbfcomics.com/">Perry Bible Fellowship</a>,
+        <a href="http://questionablecontent.net/">Questionable Content</a>,
+        <a href="http://www.buttercupfestival.com/">Buttercup Festival</a>,
+        <a href="http://www.mspaintadventures.com/?s=6&p=001901">Homestuck</a>,
+	<a href="http://www.jspowerhour.com/">Junior Scientist Power Hour</a>
+</div>
+<br />
+<div id="comicLinks">
+Other things:<br/>
+        <a href="https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597">Tips on technology and government</a>,<br /> 
+        <a href="https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html">Climate FAQ</a>,
+	<a href="https://twitter.com/KHayhoe">Katharine Hayhoe</a>
+</div>
+<br />
+<center>
+<div id="footnote" style="width:70%">xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3&plusmn;1 emulated in Javascript on an Apple IIGS<br />at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device<br />from Airplane Mode and set it to Boat Mode. For security reasons, please leave caps lock on while browsing.</div>
+</center>
+<div id="licenseText">
+<p>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-nc/2.5/">Creative Commons Attribution-NonCommercial 2.5 License</a>.
+</p><p>
+This means you're free to copy and share these comics (but not to sell them). <a rel="license" href="/license.html">More details</a>.</p>
+</div>
+</div>
+</body>
+<!-- Layout by Ian Clasbey, davean, and chromakode -->
+</html>
+
